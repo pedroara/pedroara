@@ -1,8 +1,8 @@
 ### Hi, I'm Pedro Araujo 
 
-- 💬 Ask me about React and Redux
-- 🌱 I’m currently learning Ruby on Rails
-- ⚡ Fun fact I’m otaku
+- 💬  Ask me about React and Redux
+- 🌱  I’m currently learning Ruby on Rails
+- ⚡  Fun fact I’m otaku
 
 <!--
 Here are some ideas to get you started:
