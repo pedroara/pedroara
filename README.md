@@ -1,18 +1,30 @@
-### Hi, I'm Pedro Araujo, 23 years old, Brazilian Sofware Engenieer
+# Hi there, I'm Pedro Araujo 👋
 
-- 💬 Ask me about React, React Native, and Ruby on Rails
-- 📫 How to reach me: araujo.peo@gmail.com
-- 💼 I’m currently working on Moblive
-- 👔 I started to work in middle 2020, at frontend of an e-commerce application using React for a University Company, at october 2020 I started to work in Moblive, a brazilian educational software company.
+I'm a Brazilian software engineer, specialized in frontend development with React and React Native, as well as backend development with Ruby on Rails. I'm passionate about building user-friendly and efficient applications, and I'm always striving to improve my skills.
 
-<!--
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🌱  I’mcurrently learning Ruby on Rails
-- 👯 I’m looking to collaborate on ...
-- ⚡  Fun fact I’m otaku
-- 🔭 I’m currently working on Moblive
-- 🤔 I’m looking for help with ...
- ...
-- 😄 Pronouns: ...
--->
+- **Languages:** JavaScript, Ruby, HTML, CSS
+- **Frameworks/Libraries:** React, React Native, Ruby on Rails, Bootstrap, Material-UI
+- **Tools:** Git, VS Code, Postman, Heroku, Firebase, Netlify
+
+## 💼 Experience
+
+- **Software Engineer** at Moblive (2020 - present)
+
+I'm currently working at Moblive, a Brazilian educational software company, where I'm responsible for developing and maintaining the frontend and backend of their applications.
+
+- **Frontend Developer** at a University Company (2020)
+
+I started my career as a frontend developer, working on an e-commerce application using React. During this time, I learned how to collaborate with a team and develop efficient and scalable code.
+
+## 📫 Contact
+
+Feel free to reach out to me at pedroara.dev@gmail.com. I'm always open to new opportunities and collaborations.
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/pedroaraujo/)
+- [Twitter](https://twitter.com/pedro_araujo__)
+
+Thanks for visiting my profile!
