@@ -5,7 +5,7 @@ I'm a Brazilian software engineer, specialized in frontend development with Reac
 ## 🚀 Skills
 
 - **Languages:** JavaScript, Ruby, HTML, CSS
-- **Frameworks/Libraries:** React, React Native, Ruby on Rails, Bootstrap, Material-UI
+- **Frameworks/Libraries:** React, React Native, Ruby on Rails, Typescript
 - **Tools:** Git, VS Code, Postman, Heroku, Firebase, Netlify
 
 ## 💼 Experience
