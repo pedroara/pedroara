@@ -27,4 +27,16 @@ Feel free to reach out to me at pedroara.dev@gmail.com. I'm always open to new o
 - [LinkedIn](https://www.linkedin.com/in/pedroaraujo/)
 - [Twitter](https://twitter.com/pedro_araujo__)
 
+
+## ⭐ Information about my GitHub account
+
+  [![pedroara](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroara&hide=html&layout=compact&theme=dracula)](https://github.com/pedroara/)
+  [![card](https://github-readme-stats.vercel.app/api?username=pedroara&theme=dracula)](https://github.com/pedroara/)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedroara}/count.svg" /></p> 
+<br></div>
+
 Thanks for visiting my profile!
