@@ -34,9 +34,5 @@ Feel free to reach out to me at pedroara.dev@gmail.com. I'm always open to new o
 
 
 <div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedroara}/count.svg" /></p> 
-  <br>
   Thanks for visiting my profile! 
 </div>
