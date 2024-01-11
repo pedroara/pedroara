@@ -31,8 +31,3 @@ Feel free to reach out to me at pedroara.dev@gmail.com. I'm always open to new o
 <!-- [![pedroara](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroara&hide=html&layout=compact&theme=dracula)](https://github.com/pedroara/) -->
   
 <!-- [![pedroara](https://github-readme-stats.vercel.app/api?username=pedroara&theme=dracula)](https://github.com/pedroara/) -->
-
-
-<div align="center">
-  Thanks for visiting my profile! 
-</div>
