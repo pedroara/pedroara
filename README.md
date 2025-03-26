@@ -20,7 +20,7 @@ I started my career as a frontend developer, working on an e-commerce applicatio
 
 ## 📫 Contact
 
-Feel free to reach out to me at pedroara.dev@gmail.com. I'm always open to new opportunities and collaborations.
+Feel free to reach out to me at araujo.peo@gmail.com. I'm always open to new opportunities and collaborations.
 
 ## 🔗 Links
 
